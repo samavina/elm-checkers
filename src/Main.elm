@@ -75,6 +75,7 @@ X _ X _ X _ X _
 _ X _ X _ X _ X
 X _ X _ X _ X _
 -}
+
 newBoard : Board
 newBoard =
   let
